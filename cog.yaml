@@ -1,0 +1,5 @@
+image: r8.im/andreasjansson/cog-markdown-example
+build:
+  gpu: false
+  python_version: "3.8"
+predict: "predict.py:Predictor"
